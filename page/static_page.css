@@ -1,0 +1,239 @@
+@CHARSET "UTF-8";
+
+#container{
+background-color:black;
+height:1100px;
+width:800px;
+border-style:solid;
+boeder-width:4px;
+border-color:#001F3D;
+margin-left:auto;
+margin-right:auto;
+margin-top:40px;
+margin-bottom:50px;
+}
+
+#block1{
+height:300px;
+}
+
+#block2{
+height:400px;
+}
+
+#block3{
+height:400px;
+}
+
+#section10{
+background-color:#001429;
+height:50px;
+width:180px;
+float:left;
+color:white;
+font:bold 23px "Comic Sans MS", sans-serif; 
+line-height:50px;
+text-align:left;
+padding-left:20px;
+}
+#section11{
+background-color:#001429;
+height:50px;
+width:580px;
+float:right;
+color:white;
+font:italic bold 15px "Comic Sans MS", sans-serif; 
+text-transform: capitalize;
+line-height:50px;
+text-align:right;
+word-spacing:15px;
+padding-right:20px;
+}
+#section11 a:link {
+    color:white;
+    background-color:transparent;
+    text-decoration:none;
+}
+#section11 a:visited {
+    color:white;
+    background-color:transparent;
+    text-decoration:none;
+}
+#section11 a:hover {
+    color:yellow;
+    background-color:transparent;
+    text-decoration:none;
+}
+#section11 a:active {
+    color:yellow;
+    background-color:transparent;
+    text-decoration:none;
+}
+
+#section12{
+    background-color:#2E2E1F;
+    height:250px;
+    width:390px;
+    float:left;
+    padding-left:5px;
+    padding-right:7px;
+    font-family:"Georgia", sans-serif; 
+    overflow-y:auto
+}
+#section13{
+    height:250px;
+    width:395px;
+    float:left;
+}
+
+#section21{
+    height:200px;
+    width:266px;
+    float:left;
+}
+#section21 a:hover img {   
+-webkit-filter: grayscale(100%); 
+-moz-filter: grayscale(100%); 
+-ms-filter: grayscale(100%); 
+-o-filter: grayscale(100%); 
+filter: grayscale(100%); 
+filter: gray;
+}
+
+#section22{
+    height:200px;
+    width:267px;
+    float:left;
+}
+#section22 a:hover img {   
+-webkit-filter: grayscale(100%); 
+-moz-filter: grayscale(100%); 
+-ms-filter: grayscale(100%); 
+-o-filter: grayscale(100%); 
+filter: grayscale(100%); 
+filter: gray;
+}
+
+#section23{
+    height:200px;
+    width:266px;
+    float:left;
+}
+#section23 a:hover img {   
+-webkit-filter: grayscale(100%); 
+-moz-filter: grayscale(100%); 
+-ms-filter: grayscale(100%); 
+-o-filter: grayscale(100%); 
+filter: grayscale(100%); 
+filter: gray;
+}
+
+#section24{
+    height:200px;
+    width:266px;
+    float:left;
+}
+#section24 a:hover img {   
+-webkit-filter: grayscale(100%); 
+-moz-filter: grayscale(100%); 
+-ms-filter: grayscale(100%); 
+-o-filter: grayscale(100%); 
+filter: grayscale(100%); 
+filter: gray;
+}
+
+#section25{
+    height:200px;
+    width:267px;
+    float:left;
+}  
+#section25 a:hover img {   
+-webkit-filter: grayscale(100%); 
+-moz-filter: grayscale(100%); 
+-ms-filter: grayscale(100%); 
+-o-filter: grayscale(100%); 
+filter: grayscale(100%); 
+filter: gray;
+}
+
+#section26{
+    height:200px;
+    width:266px;
+    float:left;
+}
+#section26 a:hover img {   
+-webkit-filter: grayscale(100%); 
+-moz-filter: grayscale(100%); 
+-ms-filter: grayscale(100%); 
+-o-filter: grayscale(100%); 
+filter: grayscale(100%); 
+filter: gray;
+}
+
+#section31{
+    height:350px;
+    width:600px; 
+    float:left;  
+}
+#section33{
+    background-color:black;
+    height:400px;
+    width:200px;
+    float:right;
+}
+#section32{
+    background-color:#001429;
+    height:50px;
+    width:580px;
+    float:left;  
+color:white;
+font:italic 18px "Comic Sans MS", sans-serif; 
+line-height:50px;
+text-align:left;
+word-spacing:10px;
+padding-left:15px;
+}
+
+#p01{
+color:#E6E6E6;
+font:25px "Georgia", sans-serif; 
+word-spacing:15px;
+letter-spacing:4px;
+padding-left:25px;
+}
+
+#t01 {
+    width: 98%;
+    font:17px "Georgia", sans-serif;
+    color: #E6E6E6;
+    letter-spacing:3px;
+    border-collapse: collapse;
+    border-left:0;
+    border-right:0;
+    border-top:1px solid #E6E6E6;
+    border-bottom:2px solid #E6E6E6;
+}
+#t01 tr:nth-child(even) {
+    background-color:black;
+    height:32px;
+}
+#t01 tr:nth-child(odd) {
+   background-color:#2E2E1F;
+   height:32px;
+}
+
+.td01 {
+ padding-left:23px;
+}
+.td02 {
+ padding-left:15px;
+ color:#009999;
+ font-style:italic; 
+ font-size:15px;
+}
+.td03 {
+ padding-left:15px;
+ color:#FF6600;
+ font-style:italic;
+ font-size:15px; 
+}
